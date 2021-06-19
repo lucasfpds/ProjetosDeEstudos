@@ -1,2 +1,2 @@
 # ProjetosDeEstudos
- Projetos feitos durante os estudos.
+ Projetos que eu fiz durante o estudo dos cursos.
